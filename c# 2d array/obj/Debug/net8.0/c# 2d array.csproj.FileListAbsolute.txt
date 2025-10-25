@@ -1,0 +1,15 @@
+/workspaces/cshartTask2/c# 2d array/bin/Debug/net8.0/c# 2d array
+/workspaces/cshartTask2/c# 2d array/bin/Debug/net8.0/c# 2d array.deps.json
+/workspaces/cshartTask2/c# 2d array/bin/Debug/net8.0/c# 2d array.runtimeconfig.json
+/workspaces/cshartTask2/c# 2d array/bin/Debug/net8.0/c# 2d array.dll
+/workspaces/cshartTask2/c# 2d array/bin/Debug/net8.0/c# 2d array.pdb
+/workspaces/cshartTask2/c# 2d array/obj/Debug/net8.0/c# 2d array.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cshartTask2/c# 2d array/obj/Debug/net8.0/c# 2d array.AssemblyInfoInputs.cache
+/workspaces/cshartTask2/c# 2d array/obj/Debug/net8.0/c# 2d array.AssemblyInfo.cs
+/workspaces/cshartTask2/c# 2d array/obj/Debug/net8.0/c# 2d array.csproj.CoreCompileInputs.cache
+/workspaces/cshartTask2/c# 2d array/obj/Debug/net8.0/c# 2d array.sourcelink.json
+/workspaces/cshartTask2/c# 2d array/obj/Debug/net8.0/c# 2d array.dll
+/workspaces/cshartTask2/c# 2d array/obj/Debug/net8.0/refint/c# 2d array.dll
+/workspaces/cshartTask2/c# 2d array/obj/Debug/net8.0/c# 2d array.pdb
+/workspaces/cshartTask2/c# 2d array/obj/Debug/net8.0/c# 2d array.genruntimeconfig.cache
+/workspaces/cshartTask2/c# 2d array/obj/Debug/net8.0/ref/c# 2d array.dll
